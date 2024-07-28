@@ -2,6 +2,11 @@ this is the test file
 need to check the git hub conflict
 changes in the github ... this is branch 2
 
+changes in the github 
+changes in the master intentionally
+changes in branch
+more changes
+most changes
 
 
 
