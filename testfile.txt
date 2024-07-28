@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 this is brand new branch 6
 add these lines for testing branch 6
 very good branch 6
+=======
+more changes
+most changes
+coming from branch 4 changes this is very important to update
+>>>>>>> master
 
 
