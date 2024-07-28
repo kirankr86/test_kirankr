@@ -3,11 +3,6 @@ need to check the git hub conflict
 changes in the github 
 changes in the master intentionally
 changes in branch
-================
-changes in the master
-
-so many changes in this branch
-please add these changes from the branch
 more changes
 most changes
 
