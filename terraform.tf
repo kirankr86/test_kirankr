@@ -6,6 +6,7 @@ provider "azure" {
   region = "us-east-1" # Replace with your desired region
 }
 
+
 # Create an EC2 instance
 resource "aws_instance" "example" {
   ami           = "ami-0c55b159cbfafe1f0" # Replace with a valid AMI
@@ -17,4 +18,14 @@ resource "aws_instance" "example" {
   tags = {
     Name = "my-second-ec2-instance"
   }
+tags = {
+    Name = "my-third-ec2-instance"
+}
+
+provider "gcp" {
+  region = "us-west-2" # Replace with your desired region
+}
+
+provider "alibaba" {
+  region = "us-east-1" # Replace with your desired region
 }
