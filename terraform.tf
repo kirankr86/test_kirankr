@@ -18,4 +18,6 @@ resource "aws_instance" "example" {
   tags = {
     Name = "my-second-ec2-instance"
   }
+tags = {
+    Name = "my-third-ec2-instance"
 }
